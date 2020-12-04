@@ -1,0 +1,45 @@
+﻿{
+	"books": {
+		"book": [
+			{
+				"ISBN-13": "978-0679741954",
+				"Title": "The Death and Life of Great American Cities",
+				"Author": "Jane Jacobs",
+				"PublisherGroup": "Reissue Edition",
+				"Genre": "Non-fiction",
+				"Value": "9.99",
+				"Binding": "Paperback",
+				"Published": "1961",
+				"Language": "Eng",
+				"Num_Page": "458",
+				"Avg_Rating": "4.5"
+			},
+			{
+				"ISBN-13": "978-0935640854",
+				"Title": "Heart of Darkness",
+				"Author": "Jacques Rancière; Jane Jacobs",
+				"PublisherGroup": "Walker Art Center",
+				"Genre": "Exhibition Catalogue",
+				"Value": "27.99",
+				"Binding": "Paperback",
+				"Published": "2006",
+				"Language": "Eng",
+				"Num_Page": "128",
+				"Avg_Rating": "NA"
+			},
+			{
+				"ISBN-13": "978-0394705842",
+				"Title": "The Economy of Cities",
+				"Author": "Jane Jacobs",
+				"PublisherGroup": "Illustrated Edition",
+				"Genre": "Non-fiction",
+				"Value": "14.69",
+				"Binding": "Paperback",
+				"Published": "1969",
+				"Language": "Eng",
+				"Num_Page": "288",
+				"Avg_Rating": "4.1"
+			}
+		]
+	}
+}
